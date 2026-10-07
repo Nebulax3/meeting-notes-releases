@@ -7,7 +7,7 @@
 
 ## 安裝
 
-**需要**：Apple M 系列晶片的 Mac（記憶體建議 16GB 以上）、約 10GB 硬碟空間、Google Chrome（建議）。
+**需要**：Apple M 系列晶片的 Mac、**macOS 14（Sonoma）以上**（記憶體建議 16GB 以上）、約 10GB 硬碟空間、Google Chrome（建議）。
 
 1. 到右側的 **Releases**，下載最新版的 `MeetingNotes-xxxx.pkg`
 2. 雙擊安裝檔，照畫面按「繼續」，輸入電腦密碼完成安裝
